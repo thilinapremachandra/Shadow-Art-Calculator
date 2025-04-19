@@ -98,10 +98,6 @@ The calculator uses the `ephem` library to determine sun positions throughout th
 2. Shadow angle (opposite of sun's azimuth)
 3. Times when these values match specified criteria
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
